@@ -2,7 +2,7 @@
 
 This is the application from udemy course [MERN Stack : React ,Redux ,Node ,Mongo - Pizza Delivery App](https://www.udemy.com/course/mern-stack-react-redux-node-mongo-pizza-delivery-app/) that I took to learn differences between React Native and React (not much). Since there were some changes in current **npm packages** and the one used in this tutorial, this sample app can help users stuck due to minor but frustating behaviour.
 
-This app does not contain codes for order list, stripe integration and heroku config of content creator.
+This app does not contain codes for order list, stripe integration and heroku config for the sake of content creator.
 
 The application uses React and Node.js and has:
 - Minor login and register feature using frontend/backend.
